@@ -22,4 +22,4 @@ const capitalize = (str, indices) => {
 }
 
 
-console.log(capitalize('codewars', [1, 3, 5, 50]))
+console.log(capitalize('codewars', [1, 3, 5, 50])) // cOdEwArs
